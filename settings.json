@@ -1,0 +1,52 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "side",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
+    "apc.electron": {
+      "titleBarStyle": "hiddenInset",
+      "frame": false,
+    },
+    "apc.listRow": {
+      "height": 24
+    },
+    "apc.stylesheet": {
+      ".editor-actions": "display: none"
+    },
+    "apc.font.family": "Inter",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "explorer.sortOrder": "foldersNestsFiles",
+    "explorer.fileNesting.patterns": {
+      "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
+      "tailwind.config.js": "tailwind.config*, postcss.config*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    },
+    "explorer.fileNesting.enabled": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "yaml.schemas": {
+      "file:///c%3A/Users/justa/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false
+  }
