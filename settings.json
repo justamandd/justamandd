@@ -1,4 +1,5 @@
 {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.colorTheme": "Min Dark",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
@@ -9,6 +10,9 @@
       80,
       120
     ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
